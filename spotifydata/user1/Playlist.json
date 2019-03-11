@@ -1,0 +1,5353 @@
+{
+  "playlists": [
+    {
+      "name": "You've got great taste!",
+      "lastModifiedDate": "2019-02-09",
+      "tracks": [
+        {
+          "trackName": "Old Dan Tucker - Live at the Point Theatre, Dublin, Ireland - November 2006",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "Prelude No.1 - Melodía lírica",
+          "artistName": "Pablo Sainz Villegas",
+          "note": null
+        },
+        {
+          "trackName": "Far Far",
+          "artistName": "Yael Naim",
+          "note": null
+        },
+        {
+          "trackName": "New Age Motion",
+          "artistName": "Music For Absolute Sleep",
+          "note": null
+        },
+        {
+          "trackName": "Waterloo Sunset - Mono Mix",
+          "artistName": "The Kinks",
+          "note": null
+        },
+        {
+          "trackName": "Que Sepan Todos",
+          "artistName": "Las Hermanas García",
+          "note": null
+        },
+        {
+          "trackName": "Sensualité",
+          "artistName": "Axelle Red",
+          "note": null
+        },
+        {
+          "trackName": "主",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "Chill 3",
+          "artistName": "Relaxation Mediation Yoga Music",
+          "note": null
+        },
+        {
+          "trackName": "Sonata for solo violoncello, Op. 8: Sonata for solo violoncello, Op. 8: III. Allegro molto vivace",
+          "artistName": "Roel Dieltiens",
+          "note": null
+        },
+        {
+          "trackName": "Six O'Clock - 2003 Remaster",
+          "artistName": "The Lovin' Spoonful",
+          "note": null
+        },
+        {
+          "trackName": "String poetic: II. Nocturne",
+          "artistName": "Jennifer Koh",
+          "note": null
+        },
+        {
+          "trackName": "Sin Remedio",
+          "artistName": "Marissa Mur",
+          "note": null
+        },
+        {
+          "trackName": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
+          "artistName": "Sufjan Stevens",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "Ódiame - En Vivo",
+          "artistName": "La Santa Cecilia",
+          "note": null
+        },
+        {
+          "trackName": "Sensualité",
+          "artistName": "The Legend Orchestra",
+          "note": null
+        },
+        {
+          "trackName": "Beneath the Moon",
+          "artistName": "Yoga",
+          "note": null
+        },
+        {
+          "trackName": "Awareness",
+          "artistName": "Davinia Leonne",
+          "note": null
+        },
+        {
+          "trackName": "This Land is Your Land",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Sunday Morning",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "Babe I'm Gonna Leave You",
+          "artistName": "Led Zeppelin",
+          "note": null
+        },
+        {
+          "trackName": "Gate of the Wisdom",
+          "artistName": "Olivier Olsen",
+          "note": null
+        },
+        {
+          "trackName": "Anak",
+          "artistName": "Freddie Aguilar",
+          "note": null
+        },
+        {
+          "trackName": "Dejaré (feat. Julieta Venegas)",
+          "artistName": "Paulino Monroy",
+          "note": null
+        },
+        {
+          "trackName": "The Sound of Silence - Reprise",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Cosmic Dancer - Remastered",
+          "artistName": "T. Rex",
+          "note": null
+        },
+        {
+          "trackName": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+          "artistName": "Ludwig van Beethoven",
+          "note": null
+        },
+        {
+          "trackName": "覺醒",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Bright Light",
+          "artistName": "Easy Sleep Music",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "hello world",
+      "lastModifiedDate": "2018-12-15",
+      "tracks": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Your Top Songs 2018 sorted by decreasing danceability",
+      "lastModifiedDate": "2018-12-14",
+      "tracks": [
+        {
+          "trackName": "No Other Way",
+          "artistName": "Jack Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Redondo Beach",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "50 Ways to Leave Your Lover",
+          "artistName": "Paul Simon",
+          "note": null
+        },
+        {
+          "trackName": "Maggie M'Gill (Taking Woodstock - OST)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Let the Good Times Roll - Remastered",
+          "artistName": "Harry Nilsson",
+          "note": null
+        },
+        {
+          "trackName": "Love on the Weekend",
+          "artistName": "John Mayer",
+          "note": null
+        },
+        {
+          "trackName": "Love In Vain",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Pennsylvania Polka",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "Cross Road Blues - Take 1",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Dink's Song",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "I Feel Like Going Home",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Sympathy For The Devil",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Slow Dancing in a Burning Room",
+          "artistName": "John Mayer",
+          "note": null
+        },
+        {
+          "trackName": "Drunks",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "Waitin' On The Day",
+          "artistName": "John Mayer",
+          "note": null
+        },
+        {
+          "trackName": "Harvest Moon",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "For What It's Worth",
+          "artistName": "Buffalo Springfield",
+          "note": null
+        },
+        {
+          "trackName": "Elliot's Place (Taking Woodstock - OST)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Don’t Think Twice, It’s All Right",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Black Muddy River - 2015 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Try (Just A Little Harder)",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "I Got You Babe",
+          "artistName": "Sonny & Cher",
+          "note": null
+        },
+        {
+          "trackName": "盒子 (The Box)",
+          "artistName": "崔健",
+          "note": null
+        },
+        {
+          "trackName": "This Land Is Your Land",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "All Coons Look Alike to Me",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I'll Be Your Mirror - Mono Single - Alternate Ending",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "上帝保佑",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "Six O'Clock - 2003 Remaster",
+          "artistName": "The Lovin' Spoonful",
+          "note": null
+        },
+        {
+          "trackName": "American Soul",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "All Along the Watchtower",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Walk On the Wild Side",
+          "artistName": "Lou Reed",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco (Be Sure to Wear Flowers In Your Hair)",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "Maggie's Farm - Live at Newport Folk Festival, Newport, RI - July 1965",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "美麗的期待",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "Dreams",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "California Dreamin' - Single Version",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "I Don't Think I Love You",
+          "artistName": "Hoobastank",
+          "note": null
+        },
+        {
+          "trackName": "I'm Going To Say It Now",
+          "artistName": "Phil Ochs",
+          "note": null
+        },
+        {
+          "trackName": "With Or Without You - Remastered",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Good Morning Good Morning - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Banjo Man",
+          "artistName": "Allan Taylor",
+          "note": null
+        },
+        {
+          "trackName": "Never Grow Old",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "American Pie",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Nowhere Man - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Matsushima-Ondo - Instrumental",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Where Are You Tonight? (Journey Through Dark Heat)",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Creep",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "Smells Like Teen Spirit",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "You Couldn't Be Cuter",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Sunday Morning",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "My My, Hey Hey (Out of the Blue)",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "I'm A Loser - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Moovin' and Groovin'",
+          "artistName": "Duane Eddy",
+          "note": null
+        },
+        {
+          "trackName": "Back In The U.S.S.R. - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Like a Rolling Stone",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Piece Of My Heart",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Crazy Blues",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Ballad of a Thin Man",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Sunshine Daydream - Live at Winterland, December 31, 1978",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Linger",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Born To Be Wild - Single Version",
+          "artistName": "Steppenwolf",
+          "note": null
+        },
+        {
+          "trackName": "Because the Night",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Come Here",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Vincent",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Tangled up in Blue",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "V. Bourrées I & II",
+          "artistName": "Johann Sebastian Bach",
+          "note": null
+        },
+        {
+          "trackName": "China Cat Sunflower",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Experience",
+          "artistName": "Ludovico Einaudi",
+          "note": null
+        },
+        {
+          "trackName": "No Love, No Nothin' - Single Version",
+          "artistName": "Judy Garland",
+          "note": null
+        },
+        {
+          "trackName": "I Feel Free",
+          "artistName": "Cream",
+          "note": null
+        },
+        {
+          "trackName": "Oh! Sweet Nuthin' - 2015 Remastered",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "Little Girl Blue",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Good Vibrations - Remastered",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "Dear Prudence - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Walk On The Ocean",
+          "artistName": "Toad The Wet Sprocket",
+          "note": null
+        },
+        {
+          "trackName": "Blowin' In the Wind",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Moon River (From Breakfast at Tiffany's) [Remastered]",
+          "artistName": "Audrey Hepburn",
+          "note": null
+        },
+        {
+          "trackName": "The Fool On The Hill - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "The Lion Sleeps Tonight (Wimoweh)",
+          "artistName": "The Tokens",
+          "note": null
+        },
+        {
+          "trackName": "(I Left My Heart) In San Francisco",
+          "artistName": "Tony Bennett",
+          "note": null
+        },
+        {
+          "trackName": "Kojo-No-Tsuki - Instrumental",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Space Oddity - 2015 Remastered Version",
+          "artistName": "David Bowie",
+          "note": null
+        },
+        {
+          "trackName": "Mykonos",
+          "artistName": "Fleet Foxes",
+          "note": null
+        },
+        {
+          "trackName": "Love Is All We Have Left",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Paradise City",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "The Warmth Of The Sun - Mono",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "America",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Give Up The Ghost",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "I Left My Heart In San Francisco",
+          "artistName": "Julie London",
+          "note": null
+        },
+        {
+          "trackName": "送別 2017",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "Concerto In B Minor N°2 Opus 104 I. Allegro",
+          "artistName": "Anne Gastinel",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker - Live at the Point Theatre, Dublin, Ireland - November 2006",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "Wave",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "Chiran-Bushi - Instrumental",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Concerto In B Minor N°2 Opus 104 III. Allegro Moderato",
+          "artistName": "Anne Gastinel",
+          "note": null
+        },
+        {
+          "trackName": "Hymnus für 12 Violoncelli, Op. 57",
+          "artistName": "Max Reger",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "有点儿激动",
+      "lastModifiedDate": "2019-01-29",
+      "tracks": [
+        {
+          "trackName": "Between the Breaths",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Back In The U.S.S.R. - 2018 Mix",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Uh-Oh, Love Comes to Town - Remastered Version",
+          "artistName": "Talking Heads",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "泪腺有点浅",
+      "lastModifiedDate": "2018-12-03",
+      "tracks": [
+        {
+          "trackName": "寂寞的戀人 - Live",
+          "artistName": "Jonathan Lee",
+          "note": null
+        },
+        {
+          "trackName": "In My Secret Life",
+          "artistName": "Leonard Cohen",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "管他呢",
+      "lastModifiedDate": "2018-12-03",
+      "tracks": [
+        {
+          "trackName": "Biliyorum",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Come into the Water",
+          "artistName": "Mitski",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "走，吟诗去",
+      "lastModifiedDate": "2018-12-06",
+      "tracks": [
+        {
+          "trackName": "Trampin'",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "An American Prayer",
+          "artistName": "The Doors",
+          "note": null
+        },
+        {
+          "trackName": "If You See Her, Say Hello - Take 1",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "You're Gonna Make Me Lonesome When You Go - Take 5",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "You're a Big Girl Now - Take 2",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Simple Twist of Fate - Take 3A",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "One of These Days",
+          "artistName": "Neil Young",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Record Store Day",
+      "lastModifiedDate": "2018-11-23",
+      "tracks": [
+        {
+          "trackName": "Playing In The Band - Live at Hec Edmundson Pavillion, University of Washington, Seattle, WA 5/21/74",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Burning of the Midnight Lamp",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Born Under Punches (The Heat Goes On)",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Crosseyed And Painless",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "The Great Curve",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Once In A Lifetime",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Houses In Motion",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Seen And Not Seen",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Listening Wind",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "The Overload",
+          "artistName": "Talking Heads",
+          "note": null
+        },
+        {
+          "trackName": "Livemiles I - Albuquerque Concert",
+          "artistName": "Tangerine Dream",
+          "note": null
+        },
+        {
+          "trackName": "Livemiles II - Berlin Concert",
+          "artistName": "Tangerine Dream",
+          "note": null
+        },
+        {
+          "trackName": "Swing Low, Sweet Chariot - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Deep Elem Blues - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Blue Yodel #9 (Standin' On The Corner) - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Spike Driver Blues - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "I've Been All Around This World - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "I'm Here To Get My Baby Out Of Jail - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "I'm Troubled - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Oh, The Wind And Rain - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "The Girl At The Crossroads Bar - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Oh Babe, It Ain't No Lie - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Casey Jones - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Diamond Joe - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Gone Home - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Ripple - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "Safe In My Garden",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "Changes",
+          "artistName": "The Zombies",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "却道天凉好个秋",
+      "lastModifiedDate": "2018-12-03",
+      "tracks": [
+        {
+          "trackName": "旺天下",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "暮春秋色",
+          "artistName": "竇唯",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The White Album Picks",
+      "lastModifiedDate": "2018-11-09",
+      "tracks": [
+        {
+          "trackName": "Revolution 1 - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Back In The U.S.S.R. - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Yer Blues - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sexy Sadie - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Helter Skelter - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Dear Prudence - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "I'm So Tired - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "I Will - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Cry Baby Cry - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Julia - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Mother Nature's Son - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Blackbird - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Long, Long, Long - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "I'm So Tired - 2018 Mix",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Beatles – Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+      "lastModifiedDate": "2018-11-05",
+      "tracks": [
+        {
+          "trackName": "Being For The Benefit Of Mr. Kite! - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Penny Lane - Stereo Mix 2017",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Good Morning Good Morning - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "With A Little Help From My Friends - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Lucy In The Sky With Diamonds - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "A Day In The Life - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Strawberry Fields Forever - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Getting Better - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Lovely Rita - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "She's Leaving Home - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "When I'm Sixty Four - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Fixing A Hole - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Within You Without You - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Sgt. Pepper reorder -- side 2",
+      "lastModifiedDate": "2018-11-02",
+      "tracks": [
+        {
+          "trackName": "Good Morning Good Morning - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Being For The Benefit Of Mr. Kite! - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "With A Little Help From My Friends - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "When I'm Sixty Four - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "She's Leaving Home - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Getting Better - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Penny Lane - Stereo Mix 2017",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "A Day In The Life - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Sgt. Pepper reorder -- side 1",
+      "lastModifiedDate": "2018-11-02",
+      "tracks": [
+        {
+          "trackName": "Lucy In The Sky With Diamonds - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Strawberry Fields Forever - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Lovely Rita - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Fixing A Hole - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Within You Without You - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "turkish",
+      "lastModifiedDate": "2018-10-14",
+      "tracks": [
+        {
+          "trackName": "Biliyorum",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Abbas",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Develerle Yaşıyorum",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Yıllar Yılan",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Zaman Asla Affetmez",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Çok Mutlusun",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Ölü Bir Adama",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Cehennem Meyhanesi",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        },
+        {
+          "trackName": "Ruhun Ölmüş Senin",
+          "artistName": "Gaye Su Akyol",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "indian",
+      "lastModifiedDate": "2018-11-15",
+      "tracks": [
+        {
+          "trackName": "Love You To - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Why",
+          "artistName": "The Byrds",
+          "note": null
+        },
+        {
+          "trackName": "Eight Miles High",
+          "artistName": "The Byrds",
+          "note": null
+        },
+        {
+          "trackName": "Sunshine Superman",
+          "artistName": "Donovan",
+          "note": null
+        },
+        {
+          "trackName": "The Fat Angel",
+          "artistName": "Donovan",
+          "note": null
+        },
+        {
+          "trackName": "The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, & Wayne Shorter)",
+          "artistName": "Herbie Hancock",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Tell It On The Mountain Soundtrack",
+      "lastModifiedDate": "2018-10-10",
+      "tracks": [
+        {
+          "trackName": "Dauphine",
+          "artistName": "Roger Powell",
+          "note": null
+        },
+        {
+          "trackName": "Daddy, Where You Been?",
+          "artistName": "Catfish Keith",
+          "note": null
+        },
+        {
+          "trackName": "Knockin' Myself Out",
+          "artistName": "Catfish Keith",
+          "note": null
+        },
+        {
+          "trackName": "Jealous Hearted, See",
+          "artistName": "Catfish Keith",
+          "note": null
+        },
+        {
+          "trackName": "Fountain",
+          "artistName": "Danny Paul Grody",
+          "note": null
+        },
+        {
+          "trackName": "Dark Was The Night, Cold Was The Ground",
+          "artistName": "Catfish Keith",
+          "note": null
+        },
+        {
+          "trackName": "Tribe By Fire",
+          "artistName": "Roger Powell",
+          "note": null
+        },
+        {
+          "trackName": "Tell Me, Baby",
+          "artistName": "Catfish Keith",
+          "note": null
+        },
+        {
+          "trackName": "Natural West",
+          "artistName": "Danny Paul Grody",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Dope",
+      "lastModifiedDate": "2018-12-02",
+      "tracks": [
+        {
+          "trackName": "Try (Just A Little Harder)",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Ball and Chain - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Voodoo Chile",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Come On (Let the Good Times Roll)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Gypsy Eyes",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Rainy Day, Dream Away",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Still Raining, Still Dreaming",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "All Along the Watchtower",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Dancing Barefoot",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "Washing Machine Heart",
+          "artistName": "Mitski",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Yo-Yo in Pittsburgh",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Hymnus für 12 Violoncelli, Op. 57",
+          "artistName": "Max Reger",
+          "note": null
+        },
+        {
+          "trackName": "Concerto In B Minor N°2 Opus 104 I. Allegro",
+          "artistName": "Anne Gastinel",
+          "note": null
+        },
+        {
+          "trackName": "Concerto In B Minor N°2 Opus 104 II. Adagio ma non Troppo",
+          "artistName": "Anne Gastinel",
+          "note": null
+        },
+        {
+          "trackName": "Concerto In B Minor N°2 Opus 104 III. Allegro Moderato",
+          "artistName": "Anne Gastinel",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Dylan Birthday Tribute ",
+      "lastModifiedDate": "2019-02-13",
+      "tracks": [
+        {
+          "trackName": "Chimes of Freedom",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Visions of Johanna - Take 5, Rehearsal",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Desolation Row - Take 2, Piano Demo",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Like a Rolling Stone - Take 5, Rehearsal (Short Version)",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Yea! Heavy And A Bottle Of Bread",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Girl from the North Country (with Johnny Cash)",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Maggie's Farm - Live at Newport Folk Festival, Newport, RI - July 1965",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "One More Night",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "I Shall Be Released - Studio Outtake - 1971",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Imagination",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Braggin'",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "How Deep is the Ocean",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Bob Dylan's 49th Beard",
+          "artistName": "Wilco",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Practice",
+      "lastModifiedDate": "2018-10-07",
+      "tracks": [
+        {
+          "trackName": "For What It's Worth",
+          "artistName": "Buffalo Springfield",
+          "note": null
+        },
+        {
+          "trackName": "Wild Thing (Re-Recorded / Remastered)",
+          "artistName": "Various Artists",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Mixed Tape",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Like a Rolling Stone",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "I'm Going To Say It Now",
+          "artistName": "Phil Ochs",
+          "note": null
+        },
+        {
+          "trackName": "Born To Be Wild - Single Version",
+          "artistName": "Steppenwolf",
+          "note": null
+        },
+        {
+          "trackName": "Little Boxes",
+          "artistName": "Pete Seeger",
+          "note": null
+        },
+        {
+          "trackName": "California Dreamin' - Single Version",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "Happy Birthday Mr President",
+          "artistName": "Marilyn Monroe",
+          "note": null
+        },
+        {
+          "trackName": "You've Got to Give Me Some - 78 rpm Version",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Piece Of My Heart",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Ball and Chain - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Maybellene - Single Version",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Hound Dog",
+          "artistName": "Elvis Presley",
+          "note": null
+        }
+      ],
+      "description": "Final project for Roots of Rock and Roll",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "About The Rolling Stones",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Guns On the Roof",
+          "artistName": "The Clash",
+          "note": null
+        },
+        {
+          "trackName": "Anarchy In The U.K.",
+          "artistName": "Sex Pistols",
+          "note": null
+        },
+        {
+          "trackName": "Street Fighting Man",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Sympathy For The Devil",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "19th Nervous Breakdown - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Have You Seen Your Mother, Baby, Standing In The Shadow? - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Get Off Of My Cloud - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "The Last Time - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "(I Can't Get No) Satisfaction - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Hey Jude",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Salt Of The Earth",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Gimme Shelter",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Midnight Rambler",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Brown Sugar - Remastered",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Casino Boogie",
+          "artistName": "The Rolling Stones",
+          "note": null
+        }
+      ],
+      "description": "fetish, devil. brittle, tense, keen-edged rock &amp; roll, didain, rancor, arrogance, ennui",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Into the wild",
+      "lastModifiedDate": "2018-11-18",
+      "tracks": [
+        {
+          "trackName": "The Woods - Acoustic",
+          "artistName": "Hollow Coves",
+          "note": null
+        },
+        {
+          "trackName": "Ripple - 2001 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Crow and the Canyon",
+          "artistName": "Crow and the Canyon",
+          "note": null
+        },
+        {
+          "trackName": "On the Road Again - Live",
+          "artistName": "Willie Nelson",
+          "note": null
+        },
+        {
+          "trackName": "Take Me Home, Country Roads - Rerecorded",
+          "artistName": "John Denver",
+          "note": null
+        },
+        {
+          "trackName": "Punching In A Dream",
+          "artistName": "The Naked And Famous",
+          "note": null
+        },
+        {
+          "trackName": "The Stable Song",
+          "artistName": "Gregory Alan Isakov",
+          "note": null
+        },
+        {
+          "trackName": "Time to Run",
+          "artistName": "Lord Huron",
+          "note": null
+        },
+        {
+          "trackName": "Down in the Valley",
+          "artistName": "The Head and the Heart",
+          "note": null
+        },
+        {
+          "trackName": "On the Beach",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "Wars",
+          "artistName": "The Strumbellas",
+          "note": null
+        },
+        {
+          "trackName": "Long Time Traveller",
+          "artistName": "The Wailin' Jennys",
+          "note": null
+        },
+        {
+          "trackName": "Tickin' Bomb",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Mud",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Mother Nature's Son - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "I've Been All Around This World - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "The Hitchhiker",
+          "artistName": "The Doors",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Highway 61 Revisited",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Mr. Tambourine Man - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "It Takes a Lot to Laugh, It Takes a Train to Cry - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Tombstone Blues - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Highway 61 Revisited - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Desolation Row - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Just Like Tom Thumb's Blues - Alternate Take",
+          "artistName": "Bob Dylan",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "playlist from Dylan",
+      "lastModifiedDate": "2018-10-05",
+      "tracks": [
+        {
+          "trackName": "Cold, Cold Heart - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Baby We're Really In Love - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Honky Tonkin' - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Lost Highway - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Ramblin' Man - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Rumble",
+          "artistName": "Link Wray",
+          "note": null
+        },
+        {
+          "trackName": "Clean Cut Kid",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Political World",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "What Was It You Wanted",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Yellow Moon",
+          "artistName": "The Neville Brothers",
+          "note": null
+        },
+        {
+          "trackName": "Ballad of Hollis Brown",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "With God on Our Side",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "With God On Our Side",
+          "artistName": "The Neville Brothers",
+          "note": null
+        },
+        {
+          "trackName": "The Ballad Of Hollis Brown",
+          "artistName": "The Neville Brothers",
+          "note": null
+        },
+        {
+          "trackName": "Hard Traveling",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "1913 Massacre",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Ludlow Massacre",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Jesus Christ",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Pretty Boy Floyd",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Jackhammer John",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Grand Coulee Dam",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Pastures Of Plenty",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Talking Dust Bowl",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "This Land is Your Land",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Cotton Fields",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "I Shall Be Released - Remastered",
+          "artistName": "The Band",
+          "note": null
+        },
+        {
+          "trackName": "I Shall be Released - Take 1",
+          "artistName": "Bob Dylan",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "D&C Con",
+      "lastModifiedDate": "2019-01-28",
+      "tracks": [
+        {
+          "trackName": "China Cat Sunflower",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "I Know You Rider - Live at Chateau D' Herouville, Herovuville, France 6/21/71",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "China Doll - 2017 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Eyes of the World",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Deal - Remastered Live Version",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Drums - Live at Soldier Field 7/5/2015",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "The Wheel",
+          "artistName": "Jerry Garcia",
+          "note": null
+        },
+        {
+          "trackName": "Looks Like Rain",
+          "artistName": "Bob Weir",
+          "note": null
+        },
+        {
+          "trackName": "Good Lovin' - Live at Red Rocks Amphitheatre, Morrison, CO 7/8/78",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Black Muddy River",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Black Muddy River - 2015 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Looks Like Rain - Live at Gizah Sound & Light Theater, Cairo, Egypt, Sept. 16, 1978",
+          "artistName": "Grateful Dead",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "float like a feather",
+      "lastModifiedDate": "2018-10-10",
+      "tracks": [
+        {
+          "trackName": "Never Grow Old",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Free to Decide - Acoustic Version",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Banjo Man",
+          "artistName": "Allan Taylor",
+          "note": null
+        },
+        {
+          "trackName": "盒子 (The Box)",
+          "artistName": "崔健",
+          "note": null
+        },
+        {
+          "trackName": "Born To Be Wild",
+          "artistName": "Steppenwolf",
+          "note": null
+        },
+        {
+          "trackName": "I'm Going To Say It Now",
+          "artistName": "Phil Ochs",
+          "note": null
+        },
+        {
+          "trackName": "Maggie M'Gill (Taking Woodstock - OST)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "American Soul",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Lights Of Home - St Peter's String Version",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "I Still Haven't Found What I'm Looking For",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Moovin' and Groovin'",
+          "artistName": "Duane Eddy",
+          "note": null
+        },
+        {
+          "trackName": "America",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Freedom",
+          "artistName": "Richie Havens",
+          "note": null
+        },
+        {
+          "trackName": "I Shall Be Released - Remastered",
+          "artistName": "The Band",
+          "note": null
+        },
+        {
+          "trackName": "No Love, No Nothin' - Single Version",
+          "artistName": "Judy Garland",
+          "note": null
+        },
+        {
+          "trackName": "Elliot's Place (Taking Woodstock - OST)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I Feel Free",
+          "artistName": "Cream",
+          "note": null
+        },
+        {
+          "trackName": "50 Ways to Leave Your Lover",
+          "artistName": "Paul Simon",
+          "note": null
+        },
+        {
+          "trackName": "Space Oddity - 2015 Remastered Version",
+          "artistName": "David Bowie",
+          "note": null
+        },
+        {
+          "trackName": "Latino Chrome",
+          "artistName": "The Doors",
+          "note": null
+        },
+        {
+          "trackName": "Newborn Awakening",
+          "artistName": "The Doors",
+          "note": null
+        },
+        {
+          "trackName": "Free As A Bird - Anthology 1 Version",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Rock And Roll Music - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Alternative Rock",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Bitter Sweet Symphony",
+          "artistName": "The Verve",
+          "note": null
+        },
+        {
+          "trackName": "Bitter Sweet Symphony",
+          "artistName": "The Verve",
+          "note": null
+        },
+        {
+          "trackName": "Black Hole Sun",
+          "artistName": "Soundgarden",
+          "note": null
+        },
+        {
+          "trackName": "Bring Me To Life",
+          "artistName": "Evanescence",
+          "note": null
+        },
+        {
+          "trackName": "Chasing Cars",
+          "artistName": "Snow Patrol",
+          "note": null
+        },
+        {
+          "trackName": "Closing Time",
+          "artistName": "Semisonic",
+          "note": null
+        },
+        {
+          "trackName": "Crazy",
+          "artistName": "Gnarls Barkley",
+          "note": null
+        },
+        {
+          "trackName": "Drive",
+          "artistName": "Incubus",
+          "note": null
+        },
+        {
+          "trackName": "Gives You Hell",
+          "artistName": "The All-American Rejects",
+          "note": null
+        },
+        {
+          "trackName": "Good Riddance (Time of Your Life)",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Good Riddance (Time of Your Life) - Live",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "How You Remind Me - LP Mix",
+          "artistName": "Nickelback",
+          "note": null
+        },
+        {
+          "trackName": "I Will Follow You Into The Dark",
+          "artistName": "Death Cab for Cutie",
+          "note": null
+        },
+        {
+          "trackName": "In The End",
+          "artistName": "Linkin Park",
+          "note": null
+        },
+        {
+          "trackName": "Iris",
+          "artistName": "The Goo Goo Dolls",
+          "note": null
+        },
+        {
+          "trackName": "Jumper - 1998 Edit",
+          "artistName": "Third Eye Blind",
+          "note": null
+        },
+        {
+          "trackName": "Jumper - 2006 Remastered Version",
+          "artistName": "Third Eye Blind",
+          "note": null
+        },
+        {
+          "trackName": "Jumper",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Karma Police",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "Karma Police (Remastered)",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "Kryptonite",
+          "artistName": "3 Doors Down",
+          "note": null
+        },
+        {
+          "trackName": "Kryptonite",
+          "artistName": "3 Doors Down",
+          "note": null
+        },
+        {
+          "trackName": "Learn to Fly",
+          "artistName": "Foo Fighters",
+          "note": null
+        },
+        {
+          "trackName": "Lightning Crashes - Live",
+          "artistName": "Live",
+          "note": null
+        },
+        {
+          "trackName": "Lightning Crashes",
+          "artistName": "Live",
+          "note": null
+        },
+        {
+          "trackName": "Lonely Boy",
+          "artistName": "The Black Keys",
+          "note": null
+        },
+        {
+          "trackName": "The Middle",
+          "artistName": "Jimmy Eat World",
+          "note": null
+        },
+        {
+          "trackName": "Mr. Brightside",
+          "artistName": "The Killers",
+          "note": null
+        },
+        {
+          "trackName": "One Week",
+          "artistName": "Barenaked Ladies",
+          "note": null
+        },
+        {
+          "trackName": "The Only Exception",
+          "artistName": "Paramore",
+          "note": null
+        },
+        {
+          "trackName": "Radioactive",
+          "artistName": "Imagine Dragons",
+          "note": null
+        },
+        {
+          "trackName": "Radioactive",
+          "artistName": "Imagine Dragons",
+          "note": null
+        },
+        {
+          "trackName": "Santeria",
+          "artistName": "Sublime",
+          "note": null
+        },
+        {
+          "trackName": "Santeria - Live from Los Angeles, CA 2015",
+          "artistName": "Sublime With Rome",
+          "note": null
+        },
+        {
+          "trackName": "Say It Ain't So",
+          "artistName": "Weezer",
+          "note": null
+        },
+        {
+          "trackName": "Say It Ain't So - Remix",
+          "artistName": "Weezer",
+          "note": null
+        },
+        {
+          "trackName": "Sex & Candy",
+          "artistName": "Marcy Playground",
+          "note": null
+        },
+        {
+          "trackName": "Smells Like Teen Spirit",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Smells Like Teen Spirit - 1992/Live at Reading",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Thnks fr th Mmrs",
+          "artistName": "Fall Out Boy",
+          "note": null
+        },
+        {
+          "trackName": "Under The Bridge",
+          "artistName": "Red Hot Chili Peppers",
+          "note": null
+        },
+        {
+          "trackName": "Unwell",
+          "artistName": "Matchbox Twenty",
+          "note": null
+        },
+        {
+          "trackName": "Unwell",
+          "artistName": "Matchbox Twenty",
+          "note": null
+        },
+        {
+          "trackName": "Unwell - Remastered",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Uprising",
+          "artistName": "Muse",
+          "note": null
+        },
+        {
+          "trackName": "Uprising - Live At Rome Olympic Stadium",
+          "artistName": "Muse",
+          "note": null
+        },
+        {
+          "trackName": "Use Somebody",
+          "artistName": "Kings of Leon",
+          "note": null
+        },
+        {
+          "trackName": "We Are Young (feat. Janelle Monáe)",
+          "artistName": "fun.",
+          "note": null
+        },
+        {
+          "trackName": "We Are Young (feat. Janelle Monáe) - Acoustic Bonus Track",
+          "artistName": "fun.",
+          "note": null
+        },
+        {
+          "trackName": "Where Is My Mind?",
+          "artistName": "Pixies",
+          "note": null
+        },
+        {
+          "trackName": "Where It's At",
+          "artistName": "Beck",
+          "note": null
+        },
+        {
+          "trackName": "With Arms Wide Open",
+          "artistName": "Creed",
+          "note": null
+        },
+        {
+          "trackName": "With Arms Wide Open - New Version With Strings",
+          "artistName": "Creed",
+          "note": null
+        },
+        {
+          "trackName": "Zombie",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Zombie - Acoustic Version",
+          "artistName": "The Cranberries",
+          "note": null
+        }
+      ],
+      "description": "40 Hits From Alternative rock sheet music collection",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "starred",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Burnout",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Having a Blast",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Chump",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Longview",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Welcome to Paradise",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Pulling Teeth",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Basket Case",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "She",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Sassafras Roots",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "When I Come Around",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Coming Clean",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Emenius Sleepus",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "In the End",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "F.O.D.",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "All by Myself",
+          "artistName": "Green Day",
+          "note": null
+        },
+        {
+          "trackName": "Speak to Me",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Breathe (In the Air)",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "On the Run",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Time",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "The Great Gig in the Sky",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Money",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Us and Them",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Any Colour You Like",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Brain Damage",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Eclipse",
+          "artistName": "Pink Floyd",
+          "note": null
+        },
+        {
+          "trackName": "Victim of the Darkness - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Am I Expecting Too Much - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "My Baby Is the Real Thing - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Goin' Down - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "She Once Belonged to Me - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Out of the City (Into Country Life) - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Soul Sister - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Fingers and Toes - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "I've Got to Convince Myself - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "On Your Way Down - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Gone Too Far - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Electricity - Remastered Version",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "After Hours",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Sleeping To Dream - Live From Montalvo",
+          "artistName": "Jason Mraz",
+          "note": null
+        },
+        {
+          "trackName": "Crossroads - Live in San Diego",
+          "artistName": "Eric Clapton",
+          "note": null
+        },
+        {
+          "trackName": "Ooh La La",
+          "artistName": "Faces",
+          "note": null
+        },
+        {
+          "trackName": "Where Damage Isn't Already Done",
+          "artistName": "The Radio Dept.",
+          "note": null
+        },
+        {
+          "trackName": "Paradise City",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Paradise City",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Stairway to Heaven - Page Remasters",
+          "artistName": "Led Zeppelin",
+          "note": null
+        },
+        {
+          "trackName": "Wigwam",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Sweet Child O' Mine",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "I'm Still Dreamin'",
+          "artistName": "Johnny Burnette",
+          "note": null
+        },
+        {
+          "trackName": "Today - Remastered",
+          "artistName": "The Smashing Pumpkins",
+          "note": null
+        },
+        {
+          "trackName": "Without a Song - Remastered",
+          "artistName": "Sonny Rollins",
+          "note": null
+        },
+        {
+          "trackName": "Old Man River - Vocal Section / Remastered 2001",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "Old Man River",
+          "artistName": "Paul Robeson",
+          "note": null
+        },
+        {
+          "trackName": "Stardust",
+          "artistName": "Sonny Beckerlee",
+          "note": null
+        },
+        {
+          "trackName": "May It Be",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Wild Child",
+          "artistName": "Enya",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "For San Francisco",
+      "lastModifiedDate": "2019-02-12",
+      "tracks": [
+        {
+          "trackName": "Daydreaming",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "(I Left My Heart) In San Francisco",
+          "artistName": "Tony Bennett",
+          "note": null
+        },
+        {
+          "trackName": "I Left My Heart In San Francisco",
+          "artistName": "Julie London",
+          "note": null
+        },
+        {
+          "trackName": "I Still Do",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "It's Just a Dream",
+          "artistName": "Kath Bloom",
+          "note": null
+        },
+        {
+          "trackName": "Linger",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "The Breeze / My Baby Cries",
+          "artistName": "Kath Bloom",
+          "note": null
+        },
+        {
+          "trackName": "Come Here",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "A Waltz for a Night",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Come Here",
+          "artistName": "Kath Bloom",
+          "note": null
+        },
+        {
+          "trackName": "Never Grow Old",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "American Soul",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "The City",
+          "artistName": "The Lil Smokies",
+          "note": null
+        },
+        {
+          "trackName": "Down the Highway",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Vincent",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Here Comes the Sun",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Forget About Him",
+          "artistName": "Kath Bloom",
+          "note": null
+        },
+        {
+          "trackName": "I Remember California",
+          "artistName": "McCabe & Mrs. Miller",
+          "note": null
+        },
+        {
+          "trackName": "Paradise City",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Dreams",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Thinking of Alex Campbell - Story",
+          "artistName": "Allan Taylor",
+          "note": null
+        },
+        {
+          "trackName": "Living Life",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco Dues",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco (Be Sure to Wear Flowers in Your Hair)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "One More Weekend",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "California Dreamin'",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco (Be Sure to Wear Flowers In Your Hair)",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco Bay Blues",
+          "artistName": "Jesse Fuller",
+          "note": null
+        },
+        {
+          "trackName": "The Wheel",
+          "artistName": "Jerry Garcia",
+          "note": null
+        },
+        {
+          "trackName": "Summer Of Love",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco Bay Blues",
+          "artistName": "Jesse Fuller",
+          "note": null
+        },
+        {
+          "trackName": "California",
+          "artistName": "Joni Mitchell",
+          "note": null
+        },
+        {
+          "trackName": "Deep Elem Blues - Live",
+          "artistName": "Jerry Garcia Acoustic Band",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco",
+          "artistName": "Foxygen",
+          "note": null
+        },
+        {
+          "trackName": "San Francisco B.C.",
+          "artistName": "Silver Jews",
+          "note": null
+        }
+      ],
+      "description": "Songs are ordered by ascending orders by Valence, using sort your music by Spotify",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Roots of Rock and Roll --- Blues",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "A Spoonful Blues",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "Prayer of Death Part 1",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "Mississippi Bo Weavil Blues",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "High Water Everywhere, Part. 2",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "When Your Ways Get Dark",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "Running Wild Blues",
+          "artistName": "Charley Patton",
+          "note": null
+        },
+        {
+          "trackName": "Police Station Blues (1932)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Milk Cow Blues (1934)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Milkcow's Calf Blues",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Sweet Home Chicago",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Cross Road Blues",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Come On In My Kitchen",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Love In Vain",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Love In Vain",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Terraplane Blues",
+          "artistName": "Robert Johnson",
+          "note": null
+        },
+        {
+          "trackName": "Blue Yodel (T for Texas)",
+          "artistName": "Jimmie Rodgers",
+          "note": null
+        },
+        {
+          "trackName": "Song to Woody",
+          "artistName": "Bob Dylan",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Good Night",
+      "lastModifiedDate": "2018-12-04",
+      "tracks": [
+        {
+          "trackName": "Vincent",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Moon River (From Breakfast at Tiffany's) [Remastered]",
+          "artistName": "Audrey Hepburn",
+          "note": null
+        },
+        {
+          "trackName": "Vincent",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Don't Think Twice, It's All Right",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Dink's Song",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Goodnight Irene",
+          "artistName": "Lead Belly",
+          "note": null
+        },
+        {
+          "trackName": "Blue in Green - Studio Sequence",
+          "artistName": "Miles Davis",
+          "note": null
+        },
+        {
+          "trackName": "And I Love You So",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "Marigold - Demo",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Prelude to a Kiss",
+          "artistName": "Duke Ellington",
+          "note": null
+        },
+        {
+          "trackName": "Comes And Goes (In Waves)",
+          "artistName": "Greg Laswell",
+          "note": null
+        },
+        {
+          "trackName": "3 Rounds and a Sound",
+          "artistName": "Blind Pilot",
+          "note": null
+        },
+        {
+          "trackName": "On Your Porch",
+          "artistName": "The Format",
+          "note": null
+        },
+        {
+          "trackName": "Who Knows Where The Time Goes?",
+          "artistName": "Fairport Convention",
+          "note": null
+        },
+        {
+          "trackName": "Moon River(Original Main Title)",
+          "artistName": "Henry Mancini",
+          "note": null
+        },
+        {
+          "trackName": "Long, Long Day",
+          "artistName": "Paul Simon",
+          "note": null
+        },
+        {
+          "trackName": "Moon River",
+          "artistName": "Frank Ocean",
+          "note": null
+        },
+        {
+          "trackName": "The Warmth Of The Sun - Mono",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "Wave",
+          "artistName": "Patti Smith",
+          "note": null
+        },
+        {
+          "trackName": "Where Have All The Flowers Gone? - Remastered",
+          "artistName": "The Kingston Trio",
+          "note": null
+        },
+        {
+          "trackName": "What A Wonderful World - Single Version",
+          "artistName": "Louis Armstrong",
+          "note": null
+        },
+        {
+          "trackName": "Summertime",
+          "artistName": "Louis Armstrong",
+          "note": null
+        },
+        {
+          "trackName": "Dream A Little Dream Of Me - Single Version",
+          "artistName": "Ella Fitzgerald",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Roots of Rock and Roll Weekly Playlist",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Maggie's Farm - Live at Newport Folk Festival, Newport, RI - July 1965",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Le sacre du printemps: Part 2 \"The Sacrifice\", Sacrificial Dance",
+          "artistName": "Igor Stravinsky",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "All Coons Look Alike to Me",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Minnie the Moocher (Theme Song)",
+          "artistName": "Cab Calloway",
+          "note": null
+        },
+        {
+          "trackName": "4 Dance Episodes from Rodeo: IV. Hoe Down",
+          "artistName": "Aaron Copland",
+          "note": null
+        },
+        {
+          "trackName": "I Feel Like Going Home",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "I Can't Be Satisfied",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "I Feel Like Going Home",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Interview #1 - Plantation Recordings",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Country Blues (Number One) - Plantation Recordings Version",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "I Be's Troubled - Plantation Recordings Version",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Rollin' Stone",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "No More Auction Block - Live at the Gaslight Café, New York, NY - October 1962",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Bob Dylan's 115th Dream",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Tombstone Blues",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Lo and Behold!",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Odds and Ends",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "The Coo Coo Bird (The Cuckoo)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Froggie Went a Courtin'",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Henry Lee",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Frankie",
+          "artistName": "Mississippi John Hurt",
+          "note": null
+        },
+        {
+          "trackName": "Stackalee",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "King Kong Kitchie Kitchie Ki-Me-O",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "John The Revelator",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Indian War Whoop",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I Wish I Was A Mole In The Ground",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Sugar Baby",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Way Down The Old Plank Road",
+          "artistName": "Uncle Dave Macon",
+          "note": null
+        },
+        {
+          "trackName": "Fishing Blues (1928)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Ballad of a Thin Man",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "House of the Risin' Sun",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Girl from the North Country (with Johnny Cash)",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Pirate Jenny - Live In New York/1964",
+          "artistName": "Nina Simone",
+          "note": null
+        },
+        {
+          "trackName": "The Lonesome Death of Hattie Carroll",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "It's Alright, Ma (I'm Only Bleeding)",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Highway 61 Revisited",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Quinn the Eskimo (The Mighty Quinn) - Studio Outtake - 1967",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Lay, Lady, Lay",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "If Dogs Run Free",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Hurricane",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Shelter from the Storm",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Blind Willie McTell - Studio Outtake - 1983",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Brownsville Girl",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Political World",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Man in the Long Black Coat",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Shooting Star",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Series of Dreams - Studio Outtake - 1989",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Things Have Changed - Single Version",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "Cry a While",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Henry Lee (feat. PJ Harvey) - 2011 Remastered Version",
+          "artistName": "Nick Cave & The Bad Seeds",
+          "note": null
+        },
+        {
+          "trackName": "Move It On Over - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Lost Highway - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "I'm So Lonesome I Could Cry - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Cold, Cold Heart - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Hey, Good Lookin' - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "(I Heard That) Lonesome Whistle - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Your Cheatin' Heart - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "I Saw The Light - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Jambalaya (On The Bayou) - Single Version",
+          "artistName": "Hank Williams",
+          "note": null
+        },
+        {
+          "trackName": "Little Girl - Remastered",
+          "artistName": "Nat King Cole",
+          "note": null
+        },
+        {
+          "trackName": "Mr. Cole Won't Rock And Roll",
+          "artistName": "Nat King Cole",
+          "note": null
+        },
+        {
+          "trackName": "My Girl",
+          "artistName": "The Temptations",
+          "note": null
+        },
+        {
+          "trackName": "My Guy",
+          "artistName": "Mary Wells",
+          "note": null
+        },
+        {
+          "trackName": "Shotgun",
+          "artistName": "Jr. Walker & The All Stars",
+          "note": null
+        },
+        {
+          "trackName": "(Love Is Like A) Heat Wave",
+          "artistName": "Martha Reeves & The Vandellas",
+          "note": null
+        },
+        {
+          "trackName": "Come See About Me",
+          "artistName": "The Supremes",
+          "note": null
+        },
+        {
+          "trackName": "Unknown Track",
+          "artistName": "Unknown Artist",
+          "note": "LOCAL FILE"
+        },
+        {
+          "trackName": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+          "artistName": "Four Tops",
+          "note": null
+        },
+        {
+          "trackName": "Blowin' In The Wind",
+          "artistName": "Stevie Wonder",
+          "note": null
+        },
+        {
+          "trackName": "Ball And Chain",
+          "artistName": "Big Mama Thornton",
+          "note": null
+        },
+        {
+          "trackName": "Women Is Losers - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Women Is Losers",
+          "artistName": "Big Brother & The Holding Company",
+          "note": null
+        },
+        {
+          "trackName": "Little Girl Blue",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Tell Mama - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Me and Bobby McGee",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Mercedes Benz",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Coo Coo",
+          "artistName": "Big Brother & The Holding Company",
+          "note": null
+        },
+        {
+          "trackName": "Hear My Train A Comin' (Acoustic)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Hear My Train A Comin' (Electric)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "All Along the Watchtower",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Star Spangled Banner - Live at Woodstock",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Brown Eyed Handsome Man",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Roll Over Beethoven",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Rock And Roll Music",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Sweet Little Sixteen",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Johnny B. Goode",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "This Train",
+          "artistName": "Sister Rosetta Tharpe",
+          "note": null
+        },
+        {
+          "trackName": "My Babe - Single Version",
+          "artistName": "Little Walter",
+          "note": null
+        },
+        {
+          "trackName": "This Train",
+          "artistName": "The Staple Singers",
+          "note": null
+        },
+        {
+          "trackName": "Tutti Frutti",
+          "artistName": "Little Richard",
+          "note": null
+        },
+        {
+          "trackName": "Bo Diddley",
+          "artistName": "Bo Diddley",
+          "note": null
+        },
+        {
+          "trackName": "Tutti Frutti",
+          "artistName": "Pat Boone",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night",
+          "artistName": "Lead Belly",
+          "note": null
+        },
+        {
+          "trackName": "Black Girl (In the Pines)",
+          "artistName": "Lead Belly",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night",
+          "artistName": "Mark Lanegan",
+          "note": null
+        },
+        {
+          "trackName": "Where Did You Sleep Last Night - Solo Acoustic Demo",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "I'm So Glad",
+          "artistName": "Skip James",
+          "note": null
+        },
+        {
+          "trackName": "1129 Blues (The Midnight Special)",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "The Midnight Special",
+          "artistName": "Creedence Clearwater Revival",
+          "note": null
+        },
+        {
+          "trackName": "Gallows Pole",
+          "artistName": "Led Zeppelin",
+          "note": null
+        },
+        {
+          "trackName": "Black Betty",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Looky Looky Yonder/Black Betty/Yellow Women's Door Bells",
+          "artistName": "Lead Belly",
+          "note": null
+        },
+        {
+          "trackName": "Black Betty",
+          "artistName": "Ram Jam",
+          "note": null
+        },
+        {
+          "trackName": "Grey Goose - Instrumental Demo",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "That Silver-Haired Daddy of Mine",
+          "artistName": "Gene Autry",
+          "note": null
+        },
+        {
+          "trackName": "Rock Island Line",
+          "artistName": "Lead Belly",
+          "note": null
+        },
+        {
+          "trackName": "Song to Woody",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "The Grand Coulee Dam - Recorded Live",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Walt Whitman's Niece",
+          "artistName": "Billy Bragg",
+          "note": null
+        },
+        {
+          "trackName": "California Stars",
+          "artistName": "Billy Bragg",
+          "note": null
+        },
+        {
+          "trackName": "Way Over Yonder In The Minor Key",
+          "artistName": "Billy Bragg",
+          "note": null
+        },
+        {
+          "trackName": "Plane Wreck at Los Gatos",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Girl from the North Country",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Tom Joad",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Union Maid",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Union Maid",
+          "artistName": "Old Crow Medicine Show",
+          "note": null
+        },
+        {
+          "trackName": "1913 Massacre",
+          "artistName": "Woody Guthrie",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Roots of Rock & Roll",
+      "lastModifiedDate": "2018-08-28",
+      "tracks": [
+        {
+          "trackName": "Aggravatin' Papa",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Baby Won't You Please Come Home",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "'Tain't Nobody's Bizness If I Do",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Jail-House Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Graveyard Dream Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Ticket Agent, Ease Your Window Down",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Boweavil Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Weeping Willow Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Dying Gambler's Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "St. Louis Blues (with Louis Armstrong)",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "You've Been a Good Old Wagon",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Cake Walkin' Babies from Home",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Careless Love Blues (take 1)",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "I Ain't Goin' to Play Second Fiddle",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "At the Christmas Ball - 78rpm Version",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Jazzbo Brown from Memphis Town - 78rpm Version",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Backwater Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "After You've Gone",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Alexander's Ragtime Band",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "There'll Be a Hot Time in the Old Town Tonight",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Trombone Cholly",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Send Me to the 'Lectric Chair",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "A Good Man Is Hard to Find",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Dyin' by the Hour",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Me and My Gin",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Kitchen Man - 78 rpm Version",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Nobody Knows You When You're Down and Out - 78rpm Version",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "On Revival Day (A Rhythmic Spiritual)",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Moan, You Moaners",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Black Mountain Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Shipwreck Blues",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Need a Little Sugar in My Bowl",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Do Your Duty",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Gimme a Pigfoot and a Bottle of Beer",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Take Me for a Buggy Ride",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Down in the Dumps",
+          "artistName": "Bessie Smith",
+          "note": null
+        },
+        {
+          "trackName": "Can the Circle Be Unbroken - 78rpm Version",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Lulu Walls",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "My Clinch Mountain Home",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Wildwood Flower",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Worried Man Blues",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Keep On the Sunny Side",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Gospel Ship",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "My Texas Girl",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Sinking In The Lonesome Sea",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Cannon Ball Blues",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "I'm Thinking Tonight of My Blue Eyes",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "River Of Jordan",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "The Storms Are On the Ocean (with Mother Maybelle Carter)",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "On the Rock Where Moses Stood",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "The Little Black Train",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Single Girl, Married Girl",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Kissing Is A Crime",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Blackie's Gunman",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "My Home Among The Hills",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "Black Jack David",
+          "artistName": "The Carter Family",
+          "note": null
+        },
+        {
+          "trackName": "My Black Mama, Pt. 1",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Preachin' Blues, Pt. 1",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Dry Spell Blues, Pt. 1",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Levee Camp Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Walking Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Special Rider Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Pony Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Death Letter Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Pearline",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "John the Revelator",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Preachin' Blues",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Empire State Express",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Levee Camp Moan",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Grinnin' in Your Face",
+          "artistName": "Son House",
+          "note": null
+        },
+        {
+          "trackName": "Bring Me a Little Water, Sylvie",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Pretty Boy Floyd",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Do-Re-Mi",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "I Ain't Got No Home in This World Anymore",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Jesus Christ",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Cotton Fields",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Rock Island Line",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Grand Coulee Dam",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "4, 5, and 9",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Will Geer Reading Woody Guthrie",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Hard Traveling",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Fannin Street",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Philadelphia Lawyer",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Hobo's Lullaby",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Bourgeois Blues",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Gray Goose",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Irene",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Vigilante Man",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Gallis Pole",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "This Land Is Your Land",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Talking Hard Work",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Midnight Special",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "In the Pines",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Pastures of Plenty",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Car Song",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "We Shall Be Free",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Harbor Lights - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I Love You Because - Take 2",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "That's All Right",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Blue Moon Of Kentucky",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Blue Moon",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Tomorrow Night - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I'll Never Let You Go (Little Darlin') - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Just Because - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Good Rockin' Tonight",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I Don't Care If The Sun Don't Shine - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Milkcow Blues Boogie - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "You're A Heartbreaker - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I'm Left, You're Right, She's Gone - Slow Version",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I'm Left, You're Right, She's Gone",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Baby, Let's Play House - Remastered",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "I Forgot To Remember To Forget - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Mystery Train - Remastered",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "Trying To Get To You - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "When It Rains, It Really Pours - 2004 DSD remaster",
+          "artistName": "Elvis Presley",
+          "note": null
+        },
+        {
+          "trackName": "No Particular Place To Go - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "At Last - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "My Babe - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "(I'm Your) Hoochie Coochie Man",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I'd Rather Go Blind - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I'm A Man - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Smokestack Lightnin'",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Forty Days And Forty Nights",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Juke - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "All I Could Do Was Cry - 1960 Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Maybellene - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "I Can't Be Satisfied",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Last Night - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Nadine - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Trust In Me - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Promised Land - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Like a Rolling Stone",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Tombstone Blues",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "From a Buick 6",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Ballad of a Thin Man",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Queen Jane Approximately",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Highway 61 Revisited",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Just Like Tom Thumb's Blues",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Desolation Row",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Piece of My Heart",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Summertime",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Try (Just A Little Harder)",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Cry Baby",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Me and Bobby McGee",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Down On Me - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Get It While You Can",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Bye, Bye Baby",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Move Over",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Ball and Chain - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Maybe",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Mercedes Benz",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "...And the Gods Made Love",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Have You Ever Been (To Electric Ladyland)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Crosstown Traffic",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Voodoo Chile",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Little Miss Strange",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Long Hot Summer Night",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Come On (Let the Good Times Roll)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Gypsy Eyes",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Burning of the Midnight Lamp",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Rainy Day, Dream Away",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "1983...(A Merman I Should Turn to Be)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Moon, Turn the Tides...Gently Gently Away",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Still Raining, Still Dreaming",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "House Burning Down",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "All Along the Watchtower",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Voodoo Child (Slight Return)",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Liked from Radio",
+      "lastModifiedDate": "2019-02-07",
+      "tracks": [
+        {
+          "trackName": "Gimme Some Lovin' - Single Mix",
+          "artistName": "The Spencer Davis Group",
+          "note": null
+        },
+        {
+          "trackName": "All That You Dream (With Linda Ronstadt)",
+          "artistName": "Little Feat",
+          "note": null
+        },
+        {
+          "trackName": "Medley: The Loner, Cinnamon Girl, Down By The River - Live",
+          "artistName": "Crosby, Stills, Nash & Young",
+          "note": null
+        },
+        {
+          "trackName": "Prop Me Up Beside The Jukebox (If I Die)",
+          "artistName": "Joe Diffie",
+          "note": null
+        },
+        {
+          "trackName": "Gnossienne No.1",
+          "artistName": "Erkan Oğur",
+          "note": null
+        },
+        {
+          "trackName": "My Days",
+          "artistName": "Leah Dou",
+          "note": null
+        },
+        {
+          "trackName": "Working Class Hero - Remastered 2010 / Lennon Legend Version",
+          "artistName": "John Lennon",
+          "note": null
+        },
+        {
+          "trackName": "Working Class Hero - Remastered 2010 / Lennon Legend Version",
+          "artistName": "John Lennon",
+          "note": null
+        },
+        {
+          "trackName": "Crush On You",
+          "artistName": "The Jets",
+          "note": null
+        },
+        {
+          "trackName": "Hey",
+          "artistName": "Pixies",
+          "note": null
+        },
+        {
+          "trackName": "Rock & Roll - 2015 Remastered Full Length Version",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "Out On The Weekend",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "Waters of March",
+          "artistName": "Art Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "She Moves On",
+          "artistName": "Paul Simon",
+          "note": null
+        },
+        {
+          "trackName": "Don't Think Twice, It's All Right",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Sunshine Superman",
+          "artistName": "Donovan",
+          "note": null
+        },
+        {
+          "trackName": "Soul Kitchen",
+          "artistName": "The Doors",
+          "note": null
+        },
+        {
+          "trackName": "Helpless",
+          "artistName": "Crosby, Stills, Nash & Young",
+          "note": null
+        },
+        {
+          "trackName": "Moon River (From \"Breakfast at Tiffany's\")",
+          "artistName": "Lang Lang",
+          "note": null
+        },
+        {
+          "trackName": "Traveling Music",
+          "artistName": "The Silk Road Ensemble",
+          "note": null
+        },
+        {
+          "trackName": "Bold as Love",
+          "artistName": "Jimi Hendrix",
+          "note": null
+        },
+        {
+          "trackName": "Pale Blue Eyes",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "Box of Rain - 2013 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "morning",
+      "lastModifiedDate": "2019-01-29",
+      "tracks": [
+        {
+          "trackName": "Her Morning Elegance",
+          "artistName": "Oren Lavie",
+          "note": null
+        },
+        {
+          "trackName": "Sunday Morning",
+          "artistName": "The Velvet Underground",
+          "note": null
+        },
+        {
+          "trackName": "Good Morning Good Morning - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Six O'Clock - 2003 Remaster",
+          "artistName": "The Lovin' Spoonful",
+          "note": null
+        },
+        {
+          "trackName": "This Land Is Your Land",
+          "artistName": "Woody Guthrie",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "Old Dan Tucker - Live at the Point Theatre, Dublin, Ireland - November 2006",
+          "artistName": "Bruce Springsteen",
+          "note": null
+        },
+        {
+          "trackName": "Pale Blue Eyes",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Gotta Get Up - Remastered",
+          "artistName": "Harry Nilsson",
+          "note": null
+        },
+        {
+          "trackName": "Let the Good Times Roll - Remastered",
+          "artistName": "Harry Nilsson",
+          "note": null
+        },
+        {
+          "trackName": "Maybellene - Single Version",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "Monday, Monday - Single Version",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "Come Together - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "With Or Without You - Remastered",
+          "artistName": "U2",
+          "note": null
+        },
+        {
+          "trackName": "Homeward Bound",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Polly",
+          "artistName": "Nirvana",
+          "note": null
+        },
+        {
+          "trackName": "Daydreaming",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "Dreams - Live",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Tristan und Isolde, WWV 90: Act I: Prelude",
+          "artistName": "Richard Wagner",
+          "note": null
+        },
+        {
+          "trackName": "After Hours",
+          "artistName": "Muddy Waters",
+          "note": null
+        },
+        {
+          "trackName": "Umbrella Man",
+          "artistName": "Dizzy Gillespie",
+          "note": null
+        },
+        {
+          "trackName": "Hot House",
+          "artistName": "The Quintet",
+          "note": null
+        },
+        {
+          "trackName": "New Morning",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "You Can Get It If You Really Want - Alternate Version",
+          "artistName": "Jimmy Cliff",
+          "note": null
+        },
+        {
+          "trackName": "Birthday - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "The Wheel",
+          "artistName": "Jerry Garcia",
+          "note": null
+        },
+        {
+          "trackName": "The Last Emperor (Main Title Theme)",
+          "artistName": "Various Artists",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "kind of like",
+      "lastModifiedDate": "2018-10-10",
+      "tracks": [
+        {
+          "trackName": "Shovels & Dirt",
+          "artistName": "The Strumbellas",
+          "note": null
+        },
+        {
+          "trackName": "In My Life - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "All of Me Wants All of You",
+          "artistName": "Sufjan Stevens",
+          "note": null
+        },
+        {
+          "trackName": "Creep",
+          "artistName": "Radiohead",
+          "note": null
+        },
+        {
+          "trackName": "Sunshine Daydream - Live at Winterland, December 31, 1978",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "California Dreamin' - Single Version",
+          "artistName": "The Mamas & The Papas",
+          "note": null
+        },
+        {
+          "trackName": "Strangers",
+          "artistName": "The Kinks",
+          "note": null
+        },
+        {
+          "trackName": "Box of Rain - 2013 Remaster",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Novelette In Fourths",
+          "artistName": "George Gershwin",
+          "note": null
+        },
+        {
+          "trackName": "Nowhere Man - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Jumpin' Jack Flash - Mono Version",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "Six O'Clock - 2003 Remaster",
+          "artistName": "The Lovin' Spoonful",
+          "note": null
+        },
+        {
+          "trackName": "Dreams",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "Here Comes the Sun",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Vassourinhas",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "Subliminal Messages",
+          "artistName": "Never Shout Never",
+          "note": null
+        },
+        {
+          "trackName": "Pennsylvania Polka",
+          "artistName": "Original Motion Picture Soundtrack",
+          "note": null
+        },
+        {
+          "trackName": "Mykonos",
+          "artistName": "Fleet Foxes",
+          "note": null
+        },
+        {
+          "trackName": "Sunday Table",
+          "artistName": "Pink Martini",
+          "note": null
+        },
+        {
+          "trackName": "Sea of Love",
+          "artistName": "Cat Power",
+          "note": null
+        },
+        {
+          "trackName": "Roll Over Beethoven",
+          "artistName": "Chuck Berry",
+          "note": null
+        },
+        {
+          "trackName": "American Pie",
+          "artistName": "Don McLean",
+          "note": null
+        },
+        {
+          "trackName": "First Day Of My Life",
+          "artistName": "Bright Eyes",
+          "note": null
+        },
+        {
+          "trackName": "On Your Porch",
+          "artistName": "The Format",
+          "note": null
+        },
+        {
+          "trackName": "Baby Driver",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "America",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Homeward Bound",
+          "artistName": "Simon & Garfunkel",
+          "note": null
+        },
+        {
+          "trackName": "Californication",
+          "artistName": "Red Hot Chili Peppers",
+          "note": null
+        },
+        {
+          "trackName": "My My, Hey Hey (Out of the Blue)",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "Dreams - Acoustic Version",
+          "artistName": "The Cranberries",
+          "note": null
+        },
+        {
+          "trackName": "My My, Hey Hey (Out of the Blue) - Live",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "Rum and Coca Cola",
+          "artistName": "The Andrews Sisters",
+          "note": null
+        },
+        {
+          "trackName": "You've Got a Friend",
+          "artistName": "James Taylor",
+          "note": null
+        },
+        {
+          "trackName": "Sympathy For The Devil",
+          "artistName": "The Rolling Stones",
+          "note": null
+        },
+        {
+          "trackName": "On The Way Home",
+          "artistName": "John Mayer",
+          "note": null
+        },
+        {
+          "trackName": "Lo and Behold!",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "I Still Miss Someone",
+          "artistName": "Johnny Cash",
+          "note": null
+        },
+        {
+          "trackName": "Southern Nights",
+          "artistName": "Allen Toussaint",
+          "note": null
+        },
+        {
+          "trackName": "Sex Is in the Heel",
+          "artistName": "Original Broadway Cast of Kinky Boots",
+          "note": null
+        },
+        {
+          "trackName": "Mr. Tambourine Man",
+          "artistName": "The Byrds",
+          "note": null
+        },
+        {
+          "trackName": "Rhapsody In Blue",
+          "artistName": "George Gershwin",
+          "note": null
+        },
+        {
+          "trackName": "Series of Dreams - Outtake from 'Oh Mercy' sessions",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Series of Dreams - Studio Outtake - 1989",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Walk on the Wild Side",
+          "artistName": "Lou Reed",
+          "note": null
+        },
+        {
+          "trackName": "Rockin' In The Free World",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "上帝保佑",
+          "artistName": "竇唯",
+          "note": null
+        },
+        {
+          "trackName": "Going Back To Big Sur",
+          "artistName": "Johnny Rivers",
+          "note": null
+        },
+        {
+          "trackName": "Ecstasy of Gold from \"The Good, the Bad, and the Ugly\"",
+          "artistName": "Yo-Yo Ma",
+          "note": null
+        },
+        {
+          "trackName": "The Fool On The Hill - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        },
+        {
+          "trackName": "Sunshine Of Your Love",
+          "artistName": "Cream",
+          "note": null
+        },
+        {
+          "trackName": "Crossroads - Live in San Diego",
+          "artistName": "Eric Clapton",
+          "note": null
+        },
+        {
+          "trackName": "Promised Land - Live at Fox Theatre, Atlanta, GA, May 19, 1977",
+          "artistName": "Grateful Dead",
+          "note": null
+        },
+        {
+          "trackName": "Somebody to Love",
+          "artistName": "Jefferson Airplane",
+          "note": null
+        },
+        {
+          "trackName": "Slouching Towards Bethlehem",
+          "artistName": "Joni Mitchell",
+          "note": null
+        },
+        {
+          "trackName": "Nowhere Near",
+          "artistName": "Yo La Tengo",
+          "note": null
+        },
+        {
+          "trackName": "She Lit A Fire",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Harvest Moon",
+          "artistName": "Neil Young",
+          "note": null
+        },
+        {
+          "trackName": "Move Forward",
+          "artistName": "Nelson Can",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Workout",
+      "lastModifiedDate": "2018-11-03",
+      "tracks": [
+        {
+          "trackName": "Flower",
+          "artistName": "Moby",
+          "note": null
+        },
+        {
+          "trackName": "Good Vibrations - Remastered",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "Surfin' U.S.A. - Remastered",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "I Get Around (Mono) - Mono",
+          "artistName": "The Beach Boys",
+          "note": null
+        },
+        {
+          "trackName": "Can't Stop",
+          "artistName": "Red Hot Chili Peppers",
+          "note": null
+        },
+        {
+          "trackName": "Saturnz Barz (feat. Popcaan)",
+          "artistName": "Gorillaz",
+          "note": null
+        },
+        {
+          "trackName": "Clint Eastwood",
+          "artistName": "Gorillaz",
+          "note": null
+        },
+        {
+          "trackName": "Feel Good Inc",
+          "artistName": "Gorillaz",
+          "note": null
+        },
+        {
+          "trackName": "On Melancholy Hill",
+          "artistName": "Gorillaz",
+          "note": null
+        },
+        {
+          "trackName": "Ascension (feat. Vince Staples)",
+          "artistName": "Gorillaz",
+          "note": null
+        },
+        {
+          "trackName": "Fortunate Son",
+          "artistName": "Creedence Clearwater Revival",
+          "note": null
+        },
+        {
+          "trackName": "Have You Ever Seen The Rain?",
+          "artistName": "Creedence Clearwater Revival",
+          "note": null
+        },
+        {
+          "trackName": "Bad Moon Rising",
+          "artistName": "Creedence Clearwater Revival",
+          "note": null
+        },
+        {
+          "trackName": "Up Around The Bend",
+          "artistName": "Creedence Clearwater Revival",
+          "note": null
+        },
+        {
+          "trackName": "Love Runs Out",
+          "artistName": "OneRepublic",
+          "note": null
+        },
+        {
+          "trackName": "Believer",
+          "artistName": "Imagine Dragons",
+          "note": null
+        },
+        {
+          "trackName": "Broken Arrows",
+          "artistName": "Avicii",
+          "note": null
+        },
+        {
+          "trackName": "All We Know",
+          "artistName": "The Chainsmokers",
+          "note": null
+        },
+        {
+          "trackName": "Great Big Storm",
+          "artistName": "Nate Ruess",
+          "note": null
+        },
+        {
+          "trackName": "Welcome To The Jungle",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Mr. Brownstone",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Think About You",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "You're Crazy",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Anything Goes",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Rocket Queen",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Welcome To The Jungle",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Sweet Child O' Mine",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Paradise City",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Knockin' On Heaven's Door",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Civil War",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "You Could Be Mine",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Yesterdays",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Ain't It Fun - Promo Radio Edit",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Since I Don't Have You",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Sympathy For The Devil",
+          "artistName": "Guns N' Roses",
+          "note": null
+        },
+        {
+          "trackName": "Maggie's Farm - Live at Newport Folk Festival, Newport, RI - July 1965",
+          "artistName": "Bob Dylan",
+          "note": null
+        },
+        {
+          "trackName": "Women Is Losers - Live",
+          "artistName": "Janis Joplin",
+          "note": null
+        },
+        {
+          "trackName": "Maybellene - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "Nadine - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "No Particular Place To Go - Single Version",
+          "artistName": "Various Artists",
+          "note": null
+        },
+        {
+          "trackName": "You Can Get It If You Really Want - Alternate Version",
+          "artistName": "Jimmy Cliff",
+          "note": null
+        },
+        {
+          "trackName": "Move Forward",
+          "artistName": "Nelson Can",
+          "note": null
+        },
+        {
+          "trackName": "Birthday - Remastered 2009",
+          "artistName": "The Beatles",
+          "note": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
