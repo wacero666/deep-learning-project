@@ -72,8 +72,11 @@ function SaveSpect(f, sr, dur, nttf)
    x = en_resynth(h5, dur, sr);
    specgram(x, nttf, sr);
    caxis(max(caxis)+[-80 0]);
-   saveas(gcf, ['spectograms/',track_id,'.png'])
+   axis off;
+   set(gcf, 'units', 'normalized'); %Just making sure it's normalized
+   export_fig (['images/',track_id,'.png'])
 end
+
 
 
 
