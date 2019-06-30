@@ -1,0 +1,24 @@
+To run the code, you need to download the Million Song dataset and LastFm datasets. 
+Link below to download: 
+
+https://labrosa.ee.columbia.edu/millionsong/
+https://labrosa.ee.columbia.edu/millionsong/lastfm
+
+Note that we use the full dataset from both sources, which may be easy to run on AWS. 
+
+
+
+[data_preparation]
+Where we transform image to numpy array, and will generate train_set_score.npy and test_set_score.npy for running the model.
+ |
+ ->[MSD_to_Spectrogram]
+    Where we turn audio features to spectrogram representation of each song. 
+	|
+	-> [MatlabSrc] is a source code from Million Song Dataset, where it helps us to 	   generate a spectrogram image.  
+
+
+[model]
+cnn_final_model.py is used to run on song pairs with balanced similarity score 
+cnn_imbalanced.ipynb is used to run on song pairs with imbalanced similarity score
+lstm_cnn_model.py is our initial model that used cnn and lstm 
+
