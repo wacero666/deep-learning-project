@@ -15,5 +15,5 @@ We transform spectrogram to numpy array, and generate train_set_score.npy and te
 
 
 To run our code, you need to download the Million Song dataset and LastFm datasets. 
-Link below to download: https://labrosa.ee.columbia.edu/millionsong/ https://labrosa.ee.columbia.edu/millionsong/lastfm
+Link below to download [MSD](https://labrosa.ee.columbia.edu/millionsong/) and [lastfm](https://labrosa.ee.columbia.edu/millionsong/lastfm)
 (Note that we use the full dataset from both sources, which may be easy to run on AWS.)
