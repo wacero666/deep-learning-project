@@ -1,6 +1,6 @@
-Hello! Welcome to our deep content music recommendation model. This project is inspired by lifehouse method project, launched by one of members from the Who, Pete Townshend. He believed that “music can reflect who we really are - like a mirror”, so our model may give some recommendations, either fall in your comfort zone or surprise you. We hope to give people some insights into their own music taste!     
+Hello! Welcome to our deep content music recommendation model. This project is inspired by [lifehouse method project](https://petetownshend.net/musicals/lifehouse-method), launched by one of members from the Who, Pete Townshend. He believed that “music can reflect who we really are - like a mirror”, so our model may give some recommendations, either fall in your comfort zone or surprise you. We hope to give people some insights into their own music taste!     
 
-This project is also a tribute to Spotify's Discover Weekly and Your Daily Drive playlists that are driven by great machine learning models at Spotify!  
+This project is also a tribute to Spotify's [Discover Weekly](https://www.spotify.com/discoverweekly/) and Your Daily Drive playlists that are driven by great machine learning models at Spotify!  
 
 More detailed in our [final report](https://github.com/wacero666/deep-learning-project/blob/master/10_707_final_report.pdf)  
 
