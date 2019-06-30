@@ -5,7 +5,7 @@ This project is also a tribute to Spotify's Discover Weekly and Your Daily Drive
 More detailed in our [final report](https://github.com/wacero666/deep-learning-project/blob/master/10_707_final_report.pdf)  
 
 [data_preparation]   
- - |->[MSD_to_Spectrogram] Where we turn audio features of each song from Million Song Dataset to spectrogram  
+- [MSD_to_Spectrogram] Where we turn audio features of each song from Million Song Dataset to spectrogram  
 - Where we transform spectrogram to numpy arrays, and generate train_set_score.npy and test_set_score.npy.
 
 [model]
