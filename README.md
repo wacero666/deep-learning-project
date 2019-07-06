@@ -2,7 +2,7 @@ Hello! Welcome to our deep content music recommendation model. This project is i
 
 This project is also a tribute to Spotify's [Discover Weekly](https://www.spotify.com/discoverweekly/) and Your Daily Drive playlists that are driven by their magical machine learning models!  
 
-Big shoutout to Million Song dataset ([MSD](https://labrosa.ee.columbia.edu/millionsong/) and LastFm datasets ([lastfm](https://labrosa.ee.columbia.edu/millionsong/lastfm), which make our project possible to start!
+Big shoutout to Million Song dataset ([MSD](https://labrosa.ee.columbia.edu/millionsong/)）and LastFm datasets ([lastfm](https://labrosa.ee.columbia.edu/millionsong/lastfm)) which make our project possible to start!
 
 More detailed in our [final report](https://github.com/wacero666/deep-learning-project/blob/master/10_707_final_report.pdf)  
 
